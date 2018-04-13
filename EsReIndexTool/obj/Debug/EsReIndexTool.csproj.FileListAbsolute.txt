@@ -1,0 +1,17 @@
+D:\MyC#\EsReIndexTool\EsReIndexTool\bin\Debug\EsReIndexTool.exe.config
+D:\MyC#\EsReIndexTool\EsReIndexTool\bin\Debug\EsReIndexTool.exe
+D:\MyC#\EsReIndexTool\EsReIndexTool\bin\Debug\EsReIndexTool.pdb
+D:\MyC#\EsReIndexTool\EsReIndexTool\bin\Debug\Elasticsearch.Net.dll
+D:\MyC#\EsReIndexTool\EsReIndexTool\bin\Debug\Nest.dll
+D:\MyC#\EsReIndexTool\EsReIndexTool\bin\Debug\Newtonsoft.Json.dll
+D:\MyC#\EsReIndexTool\EsReIndexTool\bin\Debug\Elasticsearch.Net.pdb
+D:\MyC#\EsReIndexTool\EsReIndexTool\bin\Debug\Elasticsearch.Net.xml
+D:\MyC#\EsReIndexTool\EsReIndexTool\bin\Debug\Nest.pdb
+D:\MyC#\EsReIndexTool\EsReIndexTool\bin\Debug\Nest.xml
+D:\MyC#\EsReIndexTool\EsReIndexTool\bin\Debug\Newtonsoft.Json.xml
+D:\MyC#\EsReIndexTool\EsReIndexTool\obj\Debug\EsReIndexTool.exe
+D:\MyC#\EsReIndexTool\EsReIndexTool\obj\Debug\EsReIndexTool.pdb
+D:\MyC#\EsReIndexTool\EsReIndexTool\obj\Debug\EsReIndexTool.csprojResolveAssemblyReference.cache
+D:\MyC#\EsReIndexTool - 副本\EsReIndexTool\bin\Debug\EsReIndexTool.exe.config
+D:\MyC#\EsReIndexTool - 副本\EsReIndexTool\obj\Debug\EsReIndexTool.exe
+D:\MyC#\EsReIndexTool - 副本\EsReIndexTool\obj\Debug\EsReIndexTool.pdb
